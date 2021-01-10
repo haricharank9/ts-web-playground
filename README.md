@@ -1,4 +1,4 @@
-# Webpack TypeScript Starter Template
+# TypeScript Web Playground
 
 This project was set-up as a starter kit for running typescript on node server with linting and hot-reloading.
 
