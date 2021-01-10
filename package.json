@@ -1,7 +1,7 @@
 {
-  "name": "ts-web-template",
+  "name": "ts-web-playground",
   "version": "1.0.0",
-  "description": "Typescript Webpack Template",
+  "description": "Typescript Web Playground",
   "main": "src/main.ts",
   "scripts": {
     "start": "webpack serve --open",
@@ -10,6 +10,7 @@
   },
   "keywords": [
     "TypeScript",
+    "Playground",
     "Webpack"
   ],
   "author": "Hari Charan K.",
